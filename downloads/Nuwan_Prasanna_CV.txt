@@ -1,0 +1,148 @@
+# NUWAN PRASANNA — SOFTWARE ENGINEER & CREATIVE TECHNOLOGIST
+B.Eng. Tech (Honours) — Faculty of Technology, University of Sri Jayewardenepura
+Specialization: Full-Stack Systems, PLC Industrial Automation, Electronics & IEEE Published Research
+Location: Rathpaha Niwasa, Perawella, Sri Lanka
+Email: nuwanekanayaka6@gmail.com
+Phone: +94 754899858 / (+9471) 271-8506
+GitHub: https://github.com/nuwanprasanna
+IEEE Publication: https://ieeexplore.ieee.org/document/10688954
+Websites: https://ezbugfix.com | https://goldchords.blogspot.com
+Date of Birth: June 30, 1996
+
+================================================================================
+PROFESSIONAL SUMMARY
+================================================================================
+Software Engineer, IEEE Published Researcher (IEEE Xplore Doc 10688954), and Bachelor of 
+Engineering Technology (Honours) graduate from the Faculty of Technology, University of Sri 
+Jayewardenepura. Offers 5+ years of combined expertise across full-stack software development 
+(.NET, C#, Python, React, Vue, Flutter, Laravel), Industrial PLC Automation (Siemens S7, TIA Portal, 
+Ladder Logic, SCADA, HMI, Modbus), Electronics & PCB Design (Altium, KiCad, STM32, ESP32, 
+Oscilloscope debugging), and 3D spatial modeling (Blender 3D, 3ds Max, ZBrush). Includes hands-on 
+electronic testing and telemetry gathered from industrial engineering at Vega Innovations (Pvt) Ltd.
+
+================================================================================
+PEER-REVIEWED SCIENTIFIC PUBLICATIONS
+================================================================================
+Title: Deep Learning & Morphological Segmentation for Sinhala Optical Character Recognition
+Journal/Index: IEEE Xplore Digital Library
+Document ID: 10688954
+Publication Year: 2024
+Link: https://ieeexplore.ieee.org/document/10688954
+Abstract:
+Peer-reviewed computer vision and deep learning research addressing Sinhala typography and character 
+ligatures. Proposes novel morphological image pre-processing, character contour segmentation, 
+and deep convolutional neural networks (CNNs) achieving high classification accuracy across 
+challenging print documents and multi-font text archives.
+
+================================================================================
+EDUCATION
+================================================================================
+Bachelor of Engineering Technology (Honours) | Dec 2016 – Dec 2020
+Faculty of Technology, University of Sri Jayewardenepura, Sri Lanka
+Core Specializations:
+- Industrial Automation & PLC Systems (Ladder Logic, Structured Text, SCADA)
+- Electronic Circuit Design, PCB Prototyping & Soldering
+- Microcontroller Systems & Robotics (STM32, PIC, AVR)
+- Embedded Systems Engineering & Firmware Development
+- Software Architecture & Full-Stack Systems
+- Digital Signal Processing, Telemetry & Sensor Arrays
+
+================================================================================
+TECHNICAL SKILLS & PROFICIENCIES
+================================================================================
+Industrial Automation & PLC:
+- PLC Programming (Siemens S7, TIA Portal) (92%)
+- Ladder Logic (LD) & Structured Text (ST) (94%)
+- SCADA Systems & HMI Supervisory Interface Design (90%)
+- Industrial Fieldbus Protocols (Modbus TCP/RTU, Profinet, CAN) (90%)
+- Industrial Sensors, Pneumatic Actuators & Relay Logic (93%)
+- VFD & AC/DC Motor Speed Control (88%)
+
+Electronics & Hardware Engineering:
+- PCB Schematic Design & Board Layout (KiCad, Altium Designer) (92%)
+- Microcontrollers (STM32 ARM Cortex, ESP32, PIC, Arduino) (95%)
+- Circuit Testing, Oscilloscopes & Logic Analyzer Debugging (95%)
+- Embedded C / C++ Firmware Development (93%)
+- SMD Soldering, Hot-Air Rework & Hardware Prototyping (94%)
+- Power Electronics, Low-Noise Voltage Regulators & Signal Conditioning (89%)
+
+Web & Backend Development:
+- PHP / Laravel (95%), .NET / C# (95%), AngularJS / Angular (95%), Vue.js (95%),
+  Python / Django REST (95%), MySQL (95%), WordPress (90%), Node.js (85%), React (85%)
+
+Software & Script Automation:
+- Python (95%), C# Desktop (95%), Java Enterprise (95%), Selenium Automation (95%),
+  Git, CI/CD Workflows (90%)
+
+Mobile Application Development:
+- Flutter & Dart (95%), Ionic 3 Hybrid Apps (95%)
+
+3D Spatial & Creative Design:
+- Adobe Photoshop (95%), Adobe Illustrator (95%), Adobe After Effects (95%),
+  Premiere Pro (95%), CorelDraw (95%), Blender 3D Modeling (90%), 3ds Max (85%), ZBrush (85%)
+
+Cloud & Systems:
+- Cloud Platforms: AWS, Google Cloud Platform (GCP), Microsoft Azure (85%)
+- Telemetry Arrays, IoT Wireless Hubs, Microcontroller Sensors
+
+================================================================================
+WORK EXPERIENCE
+================================================================================
+Fullstack Web Developer (Remote) | Jan 2020 – Present
+Fiverr (Global Clients)
+- Architected and deployed end-to-end web applications, microservices, and database systems.
+- Developed solutions in .NET Core, Laravel, React, and Vue.js with responsive UX.
+- Designed modular RESTful APIs and optimized MySQL queries for low-latency handling.
+
+Creative & 3D Designer (Remote) | Jan 2020 – Present
+Fiverr (Global Clients)
+- Produced high-poly and low-poly 3D models and renders using Blender 3D, 3ds Max, and ZBrush.
+- Engineered animated Twitch stream broadcast packages, overlays, and stinger transitions.
+- Designed vector brand identities and UI graphics with Adobe Illustrator and Photoshop.
+
+Trainee Electronic Engineer | Aug 2019 – Feb 2020
+Vega Innovations (Pvt) Ltd (Vega EVX Electric Supercar Pioneer)
+- Supported hardware diagnostics, PCB validation, wire harness testing, and microcontroller firmware.
+- Collaborated with lead automotive engineers on Electronic Control Units (ECUs) and telemetry.
+- Contributed to prototype development of the "Benefactor" Air Quality & Telemetry Array.
+
+Graphic Designer | Aug 2019 – Feb 2020
+Manel Studio, Sri Lanka
+- Led creative photo manipulation, typography branding, and digital advertising campaigns.
+
+================================================================================
+KEY ENGINEERING & AUTOMATION PROJECTS
+================================================================================
+1. Sinhala OCR Neural Recognition Research (IEEE Published)
+   Peer-reviewed research indexed on IEEE Xplore (Doc ID: 10688954). Deep learning computer vision 
+   pipeline for segmenting, recognizing, and digitizing complex Sinhala script character ligatures.
+
+2. Industrial PLC Automated Conveyor & Sorting Cell
+   Siemens S7-1200 PLC ladder logic & Structured Text routine with pneumatic reject gating, 
+   photoelectric sensing, failsafe E-stop interlocks, and live SCADA diagnostic dashboard.
+
+3. Precision Multi-Channel Sensor PCB & Telemetry Board
+   Custom 2-layer KiCad PCB integrating STM32/ESP32, low-noise op-amp filters, linear regulators,
+   and CAN bus for industrial and automotive telemetry data acquisition.
+
+4. "Benefactor" Air Quality Detector (IoT Prototype)
+   Atmospheric particulate monitoring unit featuring OLED telemetry and embedded C++ 
+   firmware, prototyped alongside Vega Innovations and university engineering labs.
+
+5. Uniface Social Media Platform
+   Full-stack social web portal built with .NET Core, React, TypeScript, and MySQL.
+
+6. Blender 3D Cyber Mech Hard-Surface Modeling
+   Sci-fi robotic asset with articulated mechanical joints, PBR materials, and 8K lighting.
+
+7. ChordifyHub & EzChords Mobile App
+   Cross-platform Flutter application providing guitar chord transposition and diagrams.
+
+================================================================================
+EXHIBITIONS & INDUSTRY FORUMS
+================================================================================
+- Thirasara Lanka National Exhibition (2017) — BMICH, Colombo (Technology Exhibitor)
+- Infotel Innovation Pavilion (2018) — BMICH, Colombo (Hardware & IoT Innovator)
+- J'Pura Tech Talks (2018) — University of Sri Jayewardenepura (Technical Speaker)
+- Musaeus College ENVISAGE '18 & Devi Balika Science Fair (2018) — Engineering Demonstrator
+- Vega Innovations EVX Supercar Project (2019-2020) — Trainee Electronic Systems Contributor

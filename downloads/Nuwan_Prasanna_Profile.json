@@ -1,0 +1,69 @@
+{
+  "engineer": {
+    "name": "Nuwan Prasanna",
+    "title": "Software Engineer & Creative Technologist",
+    "degree": "Bachelor of Engineering Technology (Honours)",
+    "faculty": "Faculty of Technology, University of Sri Jayewardenepura",
+    "specializations": ["Full-Stack Systems", "Industrial Automation & PLC", "Electronics Engineering", "3D Graphics", "Computer Vision Research"],
+    "location": "Rathpaha Niwasa, Perawella, Sri Lanka",
+    "email": "nuwanekanayaka6@gmail.com",
+    "phones": ["+94 754899858", "(+9471) 271-8506"],
+    "birthday": "1996-06-30"
+  },
+  "websites": {
+    "ieee": "https://ieeexplore.ieee.org/document/10688954",
+    "github": "https://github.com/nuwanprasanna",
+    "facebook": "https://www.facebook.com/nuwan.prasanna.313924/",
+    "ezbugfix": "https://ezbugfix.com",
+    "goldchords": "https://goldchords.blogspot.com"
+  },
+  "publications": [
+    {
+      "title": "Deep Learning & Morphological Segmentation for Sinhala Optical Character Recognition",
+      "indexing": "IEEE Xplore Digital Library",
+      "document_id": "10688954",
+      "url": "https://ieeexplore.ieee.org/document/10688954",
+      "year": "2024",
+      "authors": "Nuwan Prasanna et al.",
+      "abstract": "Peer-reviewed machine learning computer vision methodology resolving complex Sinhala typographic orthography and glyph ligatures."
+    }
+  ],
+  "skills": {
+    "plc_automation": [
+      { "name": "PLC Programming (Siemens S7, TIA Portal)", "proficiency": 92 },
+      { "name": "Ladder Logic (LD) & Structured Text (ST)", "proficiency": 94 },
+      { "name": "SCADA Systems & HMI Interface Design", "proficiency": 90 },
+      { "name": "Fieldbus Protocols (Modbus TCP/RTU, Profinet, CAN)", "proficiency": 90 },
+      { "name": "Industrial Sensors & Relay Logic Interlocks", "proficiency": 93 },
+      { "name": "VFD & AC/DC Motor Speed Control", "proficiency": 88 }
+    ],
+    "electronics_hardware": [
+      { "name": "PCB Schematic & Routing (KiCad, Altium Designer)", "proficiency": 92 },
+      { "name": "Microcontrollers (STM32, ESP32, PIC, Arduino)", "proficiency": 95 },
+      { "name": "Circuit Testing, Oscilloscopes & Multimeter Debugging", "proficiency": 95 },
+      { "name": "Embedded C / C++ Firmware Development", "proficiency": 93 },
+      { "name": "SMD Soldering, Rework & Hardware Prototyping", "proficiency": 94 },
+      { "name": "Power Electronics & Signal Conditioning Filters", "proficiency": 89 }
+    ],
+    "software_web": [
+      { "name": "C# / .NET Core", "proficiency": 95 },
+      { "name": "PHP / Laravel", "proficiency": 95 },
+      { "name": "Python / Django REST", "proficiency": 95 },
+      { "name": "MySQL & Relational Databases", "proficiency": 95 },
+      { "name": "React & Vue.js", "proficiency": 90 },
+      { "name": "Node.js & Express", "proficiency": 85 }
+    ],
+    "mobile_automation": [
+      { "name": "Flutter & Dart", "proficiency": 95 },
+      { "name": "Ionic 3", "proficiency": 95 },
+      { "name": "Selenium Browser Automation", "proficiency": 95 },
+      { "name": "Python Automation Scripts", "proficiency": 95 }
+    ],
+    "creative_3d": [
+      { "name": "Blender 3D Modeling", "proficiency": 90 },
+      { "name": "Adobe Photoshop & Illustrator", "proficiency": 95 },
+      { "name": "Adobe After Effects & Motion Graphics", "proficiency": 95 },
+      { "name": "3ds Max & ZBrush", "proficiency": 85 }
+    ]
+  }
+}
